@@ -1,3 +1,3 @@
-Random Line
+Hi this is a completely new line
 Change for commit C
 New line in feature1 CommitD
